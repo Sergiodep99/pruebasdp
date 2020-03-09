@@ -41,7 +41,7 @@ public class miniCalculadora {
     }
     
     public String hola(){
-        return "Hola";
+        return "Hola Juapoh";
     }
     
     public static void main(String[] args){
